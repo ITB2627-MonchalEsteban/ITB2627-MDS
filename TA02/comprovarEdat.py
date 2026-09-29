@@ -7,7 +7,7 @@ try:
         if edat>=16:
             print("Pots conduir")
     else:
-        if edat>16:
+        if edat>=16:
             print("Pots conduir")
         else:
             print("No ho ets i no pots conduir")
